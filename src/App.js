@@ -19,7 +19,7 @@ function App() {
                         </Container>
                     </>
                 } />
-                <Route path="/farm-ideas" element={FarmPage} />
+                <Route path="/farm-ideas" element={<FarmPage />} />
                 <Route path="/characters" element={<h2>Characters Page</h2>} />
                 <Route path="/quests" element={<h2>Quests Page</h2>} />
             </Routes>
