@@ -2,6 +2,10 @@ import COLOR from "../config/Color";
 import styled from "styled-components";
 import logo from '../images/logo.png';
 
+export const CropsBox = styled.div`
+    height: 70px;
+    width: 70px;
+`;
 export const MainBox = styled.div`
     position: relative;
     margin-top: 10px;
