@@ -4,8 +4,18 @@ import logo from '../images/logo.png';
 
 export const CropsBox = styled.div`
     height: 70px;
-    width: 70px;
+    width: 214px;
+    font-family: 'Ownglyph_ryuttung-Rg',sans-serif;
+    &:hover {
+        color: green;
+        transition: 0.5s;
+        font-weight: bold;
+    }
 `;
+export const MiddleBox = styled.div`
+    width: 50%;
+    margin: 10px;
+`
 export const MainBox = styled.div`
     position: relative;
     margin-top: 10px;

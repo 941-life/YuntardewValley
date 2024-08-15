@@ -19,7 +19,7 @@ import Wild_Plum from "../images/술통과일/Wild_Plum.png";
 let Fruits = [
     {
         id: 0,
-        name: "Ancient_Fruit",
+        name: "Ancient Fruit",
         origin: "550",
         efficiency: "keg",
         img: Ancient_Fruit,
@@ -33,7 +33,7 @@ let Fruits = [
     },
     {
         id: 2,
-        name: "Cactus_Fruit",
+        name: "Cactus Fruit",
         origin: "75",
         efficiency: "keg",
         img: Cactus_Fruit,
@@ -61,7 +61,7 @@ let Fruits = [
     },
     {
         id: 6,
-        name: "Crystal_Fruit",
+        name: "Crystal Fruit",
         origin: "80",
         efficiency: "keg",
         img: Crystal_Fruit,
@@ -110,7 +110,7 @@ let Fruits = [
     },
     {
         id: 13,
-        name: "Spice_Berry",
+        name: "Spice Berry",
         origin: "80",
         efficiency: "keg",
         img: Spice_Berry,
@@ -131,7 +131,7 @@ let Fruits = [
     },
     {
         id: 16,
-        name: "Wild_Plum",
+        name: "WildPlum",
         origin: "80",
         efficiency: "keg",
         img: Wild_Plum,
