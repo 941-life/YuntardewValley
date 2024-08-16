@@ -5,13 +5,16 @@ import logo from '../images/logo.png';
 export const CropsBox = styled.div`
     height: 70px;
     width: 214px;
-    font-family: 'Ownglyph_ryuttung-Rg',sans-serif;
+    font-family: 'Ownglyph_ryuttung-Rg', sans-serif;
+    transition: all 0.5s ease;
+
     &:hover {
         color: green;
-        transition: 0.5s;
         font-weight: bold;
+        transform: scale(1.05);
     }
 `;
+
 export const MiddleBox = styled.div`
     width: 50%;
     margin: 10px;
