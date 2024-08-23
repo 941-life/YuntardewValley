@@ -33,6 +33,10 @@
   font-weight: 400;
  }
 
+.Ownglyph-font{
+  font-family: 'Ownglyph_ryuttung-Rg',sans-serif;
+
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
